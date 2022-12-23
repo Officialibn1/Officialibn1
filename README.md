@@ -2,7 +2,7 @@
 - 👀 I’m interested in Building Website that have an apealing view and user-friendly UI for it's visitors
 - 👨‍💻 I'm open to working remotely.
 - 🌱 I’m currently learning Andvanced React 
-- 💞️ I’m looking to collaborate with you and your team on your next Website. 
+- 💞️ I’m looking to collaborate with you and your team on your next project. 
 - 📫 How to reach me Officialibn001@gmail.com or Mobile: 09038880282.
 
 <!---

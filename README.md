@@ -3,7 +3,7 @@
 - 👨‍💻 I'm open to working remotely.
 - 🌱 I’m currently learning Advanced React 
 - 💞️ I’m looking to collaborate with you and your team on your next project. 
-- 📫 How to reach me Officialibn001@gmail.com or Mobile: 09038880282.
+- 📫 How to reach me officialibn001@gmail.com or Mobile: 09038880282.
 
 <!---
 Officialibn1/Officialibn1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

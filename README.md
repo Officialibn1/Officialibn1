@@ -78,18 +78,6 @@
 			</span>
 			<span style="width: 100px; margin: 5px">
 				<a
-					href="https://canvasjs.com"
-					target="_blank"
-					rel="noreferrer">
-					<img
-						src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"
-						alt="canvasjs"
-						width="40"
-						height="40" />
-				</a>
-			</span>
-			<span style="width: 100px; margin: 5px">
-				<a
 					href="https://www.chartjs.org"
 					target="_blank"
 					rel="noreferrer">
@@ -186,18 +174,6 @@
 			</span>
 			<span style="width: 100px; margin: 5px">
 				<a
-					href="https://flask.palletsprojects.com/"
-					target="_blank"
-					rel="noreferrer">
-					<img
-						src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-						alt="flask"
-						width="40"
-						height="40" />
-				</a>
-			</span>
-			<span style="width: 100px; margin: 5px">
-				<a
 					href="https://www.framer.com/"
 					target="_blank"
 					rel="noreferrer">
@@ -210,36 +186,12 @@
 			</span>
 			<span style="width: 100px; margin: 5px">
 				<a
-					href="https://www.gatsbyjs.com/"
-					target="_blank"
-					rel="noreferrer">
-					<img
-						src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"
-						alt="gatsby"
-						width="40"
-						height="40" />
-				</a>
-			</span>
-			<span style="width: 100px; margin: 5px">
-				<a
 					href="https://git-scm.com/"
 					target="_blank"
 					rel="noreferrer">
 					<img
 						src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
 						alt="git"
-						width="40"
-						height="40" />
-				</a>
-			</span>
-			<span style="width: 100px; margin: 5px">
-				<a
-					href="https://graphql.org"
-					target="_blank"
-					rel="noreferrer">
-					<img
-						src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-						alt="graphql"
 						width="40"
 						height="40" />
 				</a>
@@ -294,36 +246,12 @@
 			</span>
 			<span style="width: 100px; margin: 5px">
 				<a
-					href="https://www.linux.org/"
-					target="_blank"
-					rel="noreferrer">
-					<img
-						src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-						alt="linux"
-						width="40"
-						height="40" />
-				</a>
-			</span>
-			<span style="width: 100px; margin: 5px">
-				<a
 					href="https://www.mongodb.com/"
 					target="_blank"
 					rel="noreferrer">
 					<img
 						src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
 						alt="mongodb"
-						width="40"
-						height="40" />
-				</a>
-			</span>
-			<span style="width: 100px; margin: 5px">
-				<a
-					href="https://www.mysql.com/"
-					target="_blank"
-					rel="noreferrer">
-					<img
-						src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-						alt="mysql"
 						width="40"
 						height="40" />
 				</a>
@@ -348,30 +276,6 @@
 					<img
 						src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
 						alt="nodejs"
-						width="40"
-						height="40" />
-				</a>
-			</span>
-			<span style="width: 100px; margin: 5px">
-				<a
-					href="https://www.photoshop.com/en"
-					target="_blank"
-					rel="noreferrer">
-					<img
-						src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-						alt="photoshop"
-						width="40"
-						height="40" />
-				</a>
-			</span>
-			<span style="width: 100px; margin: 5px">
-				<a
-					href="https://www.postgresql.org"
-					target="_blank"
-					rel="noreferrer">
-					<img
-						src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-						alt="postgresql"
 						width="40"
 						height="40" />
 				</a>
@@ -432,18 +336,6 @@
 					<img
 						src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
 						alt="sass"
-						width="40"
-						height="40" />
-				</a>
-			</span>
-			<span style="width: 100px; margin: 5px">
-				<a
-					href="https://www.sketch.com/"
-					target="_blank"
-					rel="noreferrer">
-					<img
-						src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg"
-						alt="sketch"
 						width="40"
 						height="40" />
 				</a>

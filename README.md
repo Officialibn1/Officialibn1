@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Isah Ibn Muhammad, a Frontent Web & Mobile Developer.</h1>
+<h1 align="center">Hi 👋, I'm a Full-Stack serverless developer using Nextjs & SvelteKit.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialibn1&label=Profile%20views&color=0e75b6&style=flat" alt="officialibn1" /> </p>
 
@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/__ibn1" target="blank"><img src="https://img.shields.io/twitter/follow/__ibn1?logo=twitter&style=for-the-badge" alt="__ibn1" /></a> </p>
 
-- 🔭 I’m currently working on **Client Management System Dashboard**
+- 🔭 I’m currently working on **Blog 99**
 
 - 🌱 I’m currently learning **Flutter & Advance NextJS Concepts**
 
-- 👯 I’m looking to collaborate on [Client Management System Dashboard](https://client-management-system-sigma.vercel.app/)
+- 👯 I’m looking to collaborate on [Blog 99](https://blog9ja.vercel.app) using SvelteKit, TypeScript, Tailwind and Prisma.
 
-- 🤝 I’m looking for help with [99 E-commerce Store](https://github.com/Officialibn1/99store)
-
-- 💬 Ask me about **React, React Native, Typescript, NextJS 14+, TailwindCSS**
+- 💬 Ask me about **React, React Native, Typescript, NextJS, Svelte, SvelteKit, TailwindCSS**
 
 - 📫 How to reach me <a href='mailto:officialibn001@gmail.com'>officialibn001@gmail.com</a>
 

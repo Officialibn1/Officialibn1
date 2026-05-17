@@ -1,59 +1,76 @@
-<h1 align="center">Hi 👋, I'm Isah Ibn Muhammad</h1>
-<h3 align="center">Full-Stack Developer | Python, AI Integration & Business Automation</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=officialibn1&label=Profile%20views&color=0e75b6&style=flat" alt="officialibn1" />
-  <img src="https://github-profile-trophy.vercel.app/?username=officialibn1&theme=flat&column=4" alt="trophies" />
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&duration=2500&pause=300&color=1D64F7&center=true&multiline=true&height=180&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Isah+Ibn+Muhammad;I+specialize+in...;Full-Stack+Development;+Python+Development;AI+Integration+%26+Business+Automation" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
 ### 👨‍💻 Professional Profile
-- 💼 Currently working full-time at **Trade Modernization Project Limited (TMPL)**.
-- 🚀 Specialized in building scalable serverless applications and robust backend systems.
-- 🤖 **Current Focus:** Deep-diving into **Python for AI**, exploring Machine Learning models, and learning how to architect **AI-driven solutions for business automation**.
-- 🛠️ Technical setup: Developing on **Ubuntu Linux** (ThinkPad Yoga 370).
 
-### 🌟 Featured Backend Architecture
-**[User Authentication Service]** 
-*Implementation of a secure, high-performance auth system using:*
-- **FastAPI** for the core web framework.
-- **Redis** for efficient JWT blacklisting and session management.
-- **Pydantic** for rigorous data validation and schema integrity.
+* 💼 **Current Role:** Full-Stack Developer & Digital Strategist at **Trade Modernization Project Limited (TMPL)**.
+* 🚀 **Core Expertise:** Architecting scalable, high-performance backend systems, serverless applications, and robust API layers.
+* 🤖 **Current Focus:** Deep-diving into **Python for AI**, training/fine-tuning Machine Learning models, and engineering **AI-driven autonomous workflows** for enterprise operations.
+* 🛠️ **Dev Environment:** Proudly building on **Ubuntu Linux** powered by a trusty ThinkPad Yoga 370.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=officialibn1&theme=tokyonight&hide_border=true&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7" alt="Isah's GitHub Streak" />
+</div>
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### **AI & Backend Development**
+#### **AI & Backend Engineering**
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="fastapi" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ai" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai" />
 </p>
 
-#### **Full-Stack**
+#### **Frontend & UI Development**
 <p align="left">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" />
-  <img src="https://img.shields.io/badge/Svelte-4A4A4A?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="svelte" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="svelte" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind" />
 </p>
 
 ---
 
-### 🔭 Projects in Progress
-- **[Blog 99](https://blog9ja.vercel.app)** — Modern blogging ecosystem built with SvelteKit and TypeScript.
-- **AI Integration Lab** — Researching ways to implement LLMs and automated workflows into enterprise trade environments.
+### 🌟 Featured Architecture
+
+#### 🔒 **Secure User Authentication Service**
+A blueprint production-ready auth layout designed for speed and defense-in-depth:
+* **FastAPI** utilized for rapid, asynchronous processing of requests.
+* **Pydantic V2** handling strict, type-safe request/response payload schemas.
+* **Redis** acting as an ultra-fast caching layer for instant state verification and automated token blacklisting.
+
+---
+
+### 🔭 Projects in Flight
+
+* 📝 **[Blog 99](https://blog9ja.vercel.app)** — A fast, modern blogging ecosystem tailored for vibrant storytelling, engineered with SvelteKit and TypeScript.
+* ⚡ **AI Integration Lab** — A sandbox environment dedicated to implementing LLMs, semantic search, and autonomous workflow engines into trade and logistics frameworks.
+
+---
 
 ### 💬 Let's Connect
-- 📧 Reach me at: [officialibn001@gmail.com](mailto:officialibn001@gmail.com)
-- 💼 LinkedIn: [Isah Ibn Muhammad](https://www.linkedin.com/in/isah-muhammad-5046b125a/)
-- 🐦 Twitter: [@_lifeofibn](https://twitter.com/_lifeofibn)
-- ☕ Support my work: [Buy Me A Coffee](https://www.buymeacoffee.com/officialibn)
 
 <p align="left">
-  <a href="https://twitter.com/__ibn1" target="blank"><img src="https://img.shields.io/twitter/follow/__ibn1?logo=twitter&style=for-the-badge" alt="__ibn1" /></a>
+  <a href="mailto:officialibn001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/isah-muhammad-5046b125a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/_lifeofibn" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.buymeacoffee.com/officialibn" target="blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/_lifeofibn" target="blank"><img src="https://img.shields.io/twitter/follow/_lifeofibn?style=social" alt="Follow on Twitter" /></a>
 </p>

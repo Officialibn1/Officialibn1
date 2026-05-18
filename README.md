@@ -18,7 +18,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=officialibn1&theme=tokyonight&hide_border=true&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7" alt="Isah's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Officialibn1&theme=tokyonight&hide_border=true&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7" alt="Isah's GitHub Streak" />
 </div>
 
 ---

@@ -56,8 +56,6 @@ A blueprint production-ready auth layout designed for speed and defense-in-depth
 ---
 
 ### 🔭 Projects in Flight
-
-* 📝 **[Blog 99](https://blog9ja.vercel.app)** — A fast, modern blogging ecosystem tailored for vibrant storytelling, engineered with SvelteKit and TypeScript.
 * ⚡ **AI Integration Lab** — A sandbox environment dedicated to implementing LLMs, semantic search, and autonomous workflow engines into trade and logistics frameworks.
 
 ---

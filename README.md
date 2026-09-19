@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Officialibn1/ibnsassets/main/uploads/AI_cover_photo.png" alt="Isah's GitHub Profile Cover Photo" />
+</div>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&duration=2500&pause=300&color=1D64F7&center=true&multiline=true&height=180&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Isah+Ibn+Muhammad;I+specialize+in...;Full-Stack+Development;+Python+Development;AI+Integration+%26+Business+Automation" alt="Typing SVG" />

@@ -93,6 +93,26 @@ Fast, polished front ends built with React, Next.js, SvelteKit, TypeScript, and 
 
 ---
 
+## Featured projects
+
+**[Retail POS](https://github.com/Officialibn1/retail-pos)** · [Live demo](https://retail-pos-vert.vercel.app/)
+A full-featured point-of-sale system for small and medium retail stores. It covers checkout with barcode support, pending orders and coupon codes, inventory with low-stock alerts, suppliers and purchase orders, returns, expense tracking, and cash drawer shift reconciliation. Analytics show revenue trends and net profit, with CSV/PDF export, four-tier role-based access, and a full activity log.
+*Next.js · TypeScript · PostgreSQL · Prisma · Tailwind CSS · Redux Toolkit · RTK Query · Recharts*
+
+**[Adept Travel Solutions](https://github.com/Officialibn1/travel-agency-website)** · [Live site](https://travel-agency-website-by-officialib.vercel.app/)
+A premium, multi-page travel agency website built for executives and sophisticated professionals. It features a parallax hero, animated service cards, destination and cruise listings, a travel tips library, and validated consultation booking and contact forms. Pages are lazy-loaded for fast performance, and all content lives in a type-safe data layer, so the site is easy to extend and deploys anywhere with no backend.
+*React 19 · TypeScript · Vite · Tailwind CSS v4 · Framer Motion · Wouter · React Hook Form · Zod · Radix UI*
+
+**[MCP Server & Anthropic Client](https://github.com/Officialibn1/mcp-server-and-anthropic-client)**
+A hands-on project exploring the Model Context Protocol. It has a custom MCP server exposing tools, resources, and prompts, and a CLI AI agent that runs a multi-turn tool-use loop with streaming responses, web search, and file uploads.
+*Python · MCP · Anthropic API*
+
+**[CleanSpace Global Community Hub](https://github.com/Officialibn1/community-engagement)** · [Live site](https://www.cleanspaceglobal.com.ng/)
+A conversion-focused event website for CleanSpace Global's Jabi Lake Park Clean-Up & Community Hub Event, with separate registration flows for exhibitors, participants, and sponsors, tiered sponsorship packages, and a live countdown. Deployed to a custom domain.
+*React · TypeScript · Vite · Tailwind CSS · Framer Motion · React Hook Form · Zod*
+
+---
+
 ## Certifications
 
 - [Programming in Python](https://coursera.org/share/94a2ab7f89283e8b3c26b678ad5b0882) · Meta, Coursera · May 2026

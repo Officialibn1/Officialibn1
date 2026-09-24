@@ -1,4 +1,6 @@
-![Isah Ibn Muhammad's GitHub Profile Cover Photo](https://raw.githubusercontent.com/Officialibn1/ibnsassets/main/uploads/AI_cover_photo.png)
+<p align="center">
+  <img src="./AI Architect in a Holographic Command Center_.png" alt="Isah Ibn Muhammad's GitHub Profile Cover Photo" width="100%" style="border-radius: 100px; margin-bottom: 40px;" />
+</p>
 
 # Isah Ibn Muhammad
 ### Full-Stack Developer · AI Automation Engineer
